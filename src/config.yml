@@ -1,0 +1,14 @@
+players:
+  c8499aea8e974bfcbe5f675fc52c120e: Admin
+
+
+ranks:
+  Admin:
+  - '&8[&4Admin&8] &4'
+  User:
+  - '&7'
+
+
+permissions:
+  Admin:
+  - libaplugin.*

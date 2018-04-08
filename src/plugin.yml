@@ -1,0 +1,22 @@
+name: LiBaGamerPlugin
+version: 1.0
+main: de.libagamer.spigotplugin.main.Main
+commands:
+   up:
+      description: Teleportiert dich um die angegebene Anzahl Blöcke nach oben.
+   rank:
+      description: Setzt einem User einen neuen Rang.
+   gm:
+      descripition: Setzt deinen Gamemode.
+   spawn:
+      description: Teleportiert dich zum Spawn.
+   npc:
+      description: NPC Manager.
+   sun:
+   rain:
+   down:
+   onestack:
+   pitch:
+   yaw:
+   giveitems:
+   countdown:
